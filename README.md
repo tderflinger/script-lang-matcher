@@ -5,7 +5,20 @@ ISO-15924 is used for the script codes. The languages codes are based on ISO-639
 
 Note that the Latin script is not included, because it is the default script.
 
-In the JSON file, the "langs" key is an array of language codes based on ISO-639-3.
+Example for the Tamil script:
+
+```json
+  {
+    "id": "Taml",
+    "name": "Tamil",
+    "notes": null,
+    "langs": ["tam", "oty", "kev", "bfq", "iru", "pcg", "saz"]
+  },
+```
+
+The "id" field is the ISO-15924 code for the script. The "name" field is the name of the script.
+The "langs" field is an array of language codes based on ISO-639-3. In the case of the Tamil script it is
+the Tamil language (tam), Old Tamil (oty), Kanikkaran (kev) and four other languages.
 
 ## References
 
