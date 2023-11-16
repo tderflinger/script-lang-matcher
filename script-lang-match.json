@@ -1,0 +1,1570 @@
+[
+  {
+    "id": "Adlm",
+    "name": "Adlam",
+    "notes": null,
+    "langs": ["ful"]
+  },
+  {
+    "id": "Afak",
+    "name": "Afaka",
+    "notes": "Not in Unicode, proposal is explored",
+    "langs": ["djk"]
+  },
+  {
+    "id": "Aghb",
+    "name": "Caucasian Albanian",
+    "notes": null,
+    "langs": ["udi"]
+  },
+  {
+    "id": "Ahom",
+    "name": "Ahom, Tai Ahom",
+    "notes": null,
+    "langs": ["aho"]
+  },
+  {
+    "id": "Arab",
+    "name": "Arabic",
+    "notes": null,
+    "langs": [
+      "ara",
+      "arq",
+      "aao",
+      "xaa",
+      "bbz",
+      "abv",
+      "shu",
+      "acy",
+      "adf",
+      "avl",
+      "arz",
+      "afb",
+      "ayh",
+      "mey",
+      "acw",
+      "ayl",
+      "acm",
+      "ary",
+      "ars",
+      "apc",
+      "ayp",
+      "acx",
+      "aec",
+      "ayn",
+      "ssh",
+      "sqr",
+      "arb",
+      "apd",
+      "pga",
+      "acq",
+      "abh",
+      "hau",
+      "yor",
+      "swa",
+      "osp",
+      "mxi",
+      "lad",
+      "hbs",
+      "tam",
+      "oty",
+      "bel",
+      "som",
+      "may",
+      "msa",
+      "kaz",
+      "jav",
+      "sun",
+      "snd",
+      "mlg",
+      "kur",
+      "tat",
+      "ota",
+      "uig",
+      "wol"
+    ]
+  },
+  {
+    "id": "Aran",
+    "name": "Arabic (Nastaliq variant)",
+    "notes": "Typographic variant of Arabic (see Arab)",
+    "langs": [
+      "bal",
+      "bsk",
+      "chg",
+      "kas",
+      "khw",
+      "kir",
+      "pus",
+      "fas",
+      "pan",
+      "pnb",
+      "skr",
+      "urd"
+    ]
+  },
+  {
+    "id": "Armi",
+    "name": "Imperial Aramaic",
+    "notes": null,
+    "langs": []
+  },
+  {
+    "id": "Armn",
+    "name": "Armenian",
+    "notes": null,
+    "langs": ["hye", "hyw", "xcl", "axm"]
+  },
+  {
+    "id": "Avst",
+    "name": "Avestan",
+    "notes": null,
+    "langs": ["ave"]
+  },
+  {
+    "id": "Bali",
+    "name": "Balinese",
+    "notes": null,
+    "langs": ["ban", "kaw", "sas"]
+  },
+  {
+    "id": "Bamu",
+    "name": "Bamum",
+    "notes": null,
+    "langs": ["bax"]
+  },
+  {
+    "id": "Bass",
+    "name": "Bassa Vah",
+    "notes": null,
+    "langs": ["bsq"]
+  },
+  {
+    "id": "Batk",
+    "name": "Batak",
+    "notes": null,
+    "langs": ["bya"]
+  },
+  {
+    "id": "Beng",
+    "name": "Bengali (Bangla)",
+    "notes": null,
+    "langs": ["ben", "asm", "mni", "omp"]
+  },
+  {
+    "id": "Bhks",
+    "name": "Bhaiksuki",
+    "notes": null,
+    "langs": ["san"]
+  },
+  {
+    "id": "Blis",
+    "name": "Blissymbols",
+    "notes": "Not in Unicode, proposal is explored",
+    "langs": ["zbl"]
+  },
+  {
+    "id": "Bopo",
+    "name": "Bopomofo",
+    "notes": null,
+    "langs": ["cmn"]
+  },
+  {
+    "id": "Brah",
+    "name": "Brahmi",
+    "notes": null,
+    "langs": ["san", "pli", "tam", "oty", "kho", "xtq"]
+  },
+  {
+    "id": "Brai",
+    "name": "Braille",
+    "notes": null,
+    "langs": []
+  },
+  {
+    "id": "Bugi",
+    "name": "Buginese",
+    "notes": null,
+    "langs": ["bug", "mak", "mdr"]
+  },
+  {
+    "id": "Buhd",
+    "name": "Buhid",
+    "notes": null,
+    "langs": ["bku"]
+  },
+  {
+    "id": "Cakm",
+    "name": "Chakma",
+    "notes": null,
+    "langs": ["ccp"]
+  },
+  {
+    "id": "Cans",
+    "name": "Unified Canadian Aboriginal Syllabics",
+    "notes": null,
+    "langs": ["cre", "nsk", "oji", "bla", "ciw"]
+  },
+  {
+    "id": "Cari",
+    "name": "Carian",
+    "notes": null,
+    "langs": ["xcr"]
+  },
+  {
+    "id": "Cham",
+    "name": "Cham",
+    "notes": null,
+    "langs": ["cja", "cjm"]
+  },
+  {
+    "id": "Cher",
+    "name": "Cherokee",
+    "notes": null,
+    "langs": ["chr"]
+  },
+  {
+    "id": "Chrs",
+    "name": "Chorasmian",
+    "notes": null,
+    "langs": ["kyw", "tdb"]
+  },
+  {
+    "id": "Cirt",
+    "name": "Cirth",
+    "notes": "Not in Unicode",
+    "langs": ["mis"]
+  },
+  {
+    "id": "Copt",
+    "name": "Coptic",
+    "notes": null,
+    "langs": ["cop"]
+  },
+  {
+    "id": "Cpmn",
+    "name": "Cypro-Minoan",
+    "notes": null,
+    "langs": []
+  },
+  {
+    "id": "Cprt",
+    "name": "Cypriot syllabary",
+    "notes": null,
+    "langs": ["grc"]
+  },
+  {
+    "id": "Cyrl",
+    "name": "Cyrillic",
+    "notes": null,
+    "langs": [
+      "ukr",
+      "bul",
+      "mkd",
+      "srp",
+      "cnr",
+      "rus",
+      "bel",
+      "rue",
+      "kur",
+      "oss",
+      "tgk",
+      "ron",
+      "koi",
+      "mhr",
+      "mrj",
+      "sjd",
+      "udm",
+      "aze",
+      "bak",
+      "chv",
+      "kaz",
+      "kir",
+      "tat",
+      "uzb",
+      "bua",
+      "khk",
+      "xal",
+      "abk",
+      "dng"
+    ]
+  },
+  {
+    "id": "Cyrs",
+    "name": "Cyrillic (Old Church Slavonic variant)",
+    "notes": "Typographic variant of Cyrillic (see Cyrl); Ancient/historic",
+    "langs": ["chu"]
+  },
+  {
+    "id": "Deva",
+    "name": "Devanagari (Nagari)",
+    "notes": null,
+    "langs": [
+      "anp",
+      "awa",
+      "vjk",
+      "bhb",
+      "bho",
+      "brx",
+      "bra",
+      "hne",
+      "sgj",
+      "doi",
+      "gbm",
+      "bgc",
+      "hin",
+      "kas",
+      "khn",
+      "kok",
+      "kfy",
+      "mag",
+      "mai",
+      "mar",
+      "omr",
+      "mwr",
+      "unr",
+      "sck",
+      "new",
+      "nwx",
+      "phj",
+      "nep",
+      "pli",
+      "raj",
+      "san",
+      "sat",
+      "mjx",
+      "skr",
+      "xsr",
+      "snd",
+      "sjp"
+    ]
+  },
+  {
+    "id": "Diak",
+    "name": "Dives Akuru",
+    "notes": null,
+    "langs": ["div"]
+  },
+  {
+    "id": "Dogr",
+    "name": "Dogra",
+    "notes": null,
+    "langs": ["doi"]
+  },
+  {
+    "id": "Dsrt",
+    "name": "Deseret (Mormon)",
+    "notes": null,
+    "langs": ["eng"]
+  },
+  {
+    "id": "Dupl",
+    "name": "Duployan shorthand, Duployan stenography",
+    "notes": null,
+    "langs": ["fra", "eng", "deu", "spa", "ron", "lat", "dan", "chh"]
+  },
+  {
+    "id": "Egyd",
+    "name": "Egyptian demotic",
+    "notes": "Not in Unicode",
+    "langs": ["egy"]
+  },
+  {
+    "id": "Egyh",
+    "name": "Egyptian hieratic",
+    "notes": "Not in Unicode",
+    "langs": ["egy"]
+  },
+  {
+    "id": "Egyp",
+    "name": "Egyptian hieroglyphs",
+    "notes": null,
+    "langs": ["egy"]
+  },
+  {
+    "id": "Elba",
+    "name": "Elbasan",
+    "notes": null,
+    "langs": ["sqi"]
+  },
+  {
+    "id": "Elym",
+    "name": "Elymaic",
+    "notes": null,
+    "langs": []
+  },
+  {
+    "id": "Ethi",
+    "name": "Ethiopic (Geez)",
+    "notes": null,
+    "langs": ["gez", "tir", "amh", "tig", "har", "byn", "mym"]
+  },
+  {
+    "id": "Gara",
+    "name": "Garay",
+    "notes": null,
+    "langs": ["wol"]
+  },
+  {
+    "id": "Geok",
+    "name": "Khutsuri (Asomtavruli and Nuskhuri)",
+    "notes": null,
+    "langs": ["kat"]
+  },
+  {
+    "id": "Geor",
+    "name": "Georgian (Mkhedruli and Mtavruli)",
+    "notes": null,
+    "langs": ["kat"]
+  },
+  {
+    "id": "Glag",
+    "name": "Glagolitic",
+    "notes": null,
+    "langs": ["chu"]
+  },
+  {
+    "id": "Gong",
+    "name": "Gunjala Gondi",
+    "notes": null,
+    "langs": ["gon"]
+  },
+  {
+    "id": "Gonm",
+    "name": "Masaram Gondi",
+    "notes": null,
+    "langs": ["gon"]
+  },
+  {
+    "id": "Goth",
+    "name": "Gothic",
+    "notes": null,
+    "langs": ["got"]
+  },
+  {
+    "id": "Gran",
+    "name": "Grantha",
+    "notes": null,
+    "langs": ["san"]
+  },
+  {
+    "id": "Grek",
+    "name": "Greek",
+    "notes": null,
+    "langs": ["ell", "grc", "cpg", "gmy", "pnt", "tsd", "yej"]
+  },
+  {
+    "id": "Gujr",
+    "name": "Gujarati",
+    "notes": null,
+    "langs": ["guj", "kfr"]
+  },
+  {
+    "id": "Gukh",
+    "name": "Gurung Khema",
+    "notes": null,
+    "langs": ["gvr"]
+  },
+  {
+    "id": "Guru",
+    "name": "Gurmukhi",
+    "notes": null,
+    "langs": ["pan", "pnb"]
+  },
+  {
+    "id": "Hanb",
+    "name": "Han with Bopomofo (alias for Han + Bopomofo)",
+    "notes": "See ani, Bopo",
+    "langs": ["cmn"]
+  },
+  {
+    "id": "Hang",
+    "name": "Hangul (Hangŭl, Hangeul)",
+    "notes": null,
+    "langs": ["kor", "jje", "cia"]
+  },
+  {
+    "id": "Hani",
+    "name": "Han (Hanzi, Kanji, Hanja)",
+    "notes": null,
+    "langs": [
+      "cmn",
+      "cjy",
+      "yue",
+      "hak",
+      "wuu",
+      "czh",
+      "gan",
+      "hsn",
+      "cnp",
+      "csp",
+      "jpn",
+      "kor",
+      "vie",
+      "ryu"
+    ]
+  },
+  {
+    "id": "Hano",
+    "name": "Hanunoo (Hanunóo)",
+    "notes": null,
+    "langs": ["hnn"]
+  },
+  {
+    "id": "Hans",
+    "name": "Han (Simplified variant)",
+    "notes": "Subset of Han (Hanzi, Kanji, Hanja) (see Hani)",
+    "langs": ["cmn", "jpn", "ryu"]
+  },
+  {
+    "id": "Hant",
+    "name": "Han (Traditional variant)",
+    "notes": "Subset of Hani",
+    "langs": ["cmn", "kor", "jpn", "ryu"]
+  },
+  {
+    "id": "Hatr",
+    "name": "Hatran",
+    "notes": null,
+    "langs": []
+  },
+  {
+    "id": "Hebr",
+    "name": "Hebrew",
+    "notes": null,
+    "langs": [
+      "heb",
+      "hbo",
+      "smp",
+      "obm",
+      "xdm",
+      "yid",
+      "lad",
+      "mxi",
+      "apc",
+      "jdt",
+      "bhh",
+      "czk",
+      "zrp",
+      "itk",
+      "jge",
+      "jrb",
+      "jbe"
+    ]
+  },
+  {
+    "id": "Hira",
+    "name": "Hiragana",
+    "notes": null,
+    "langs": ["jpn", "ryu"]
+  },
+  {
+    "id": "Hluw",
+    "name": "Anatolian Hieroglyphs (Luwian Hieroglyphs, Hittite Hieroglyphs)",
+    "notes": null,
+    "langs": ["xlu", "hlu"]
+  },
+  {
+    "id": "Hmng",
+    "name": "Pahawh Hmong",
+    "notes": null,
+    "langs": ["hmn"]
+  },
+  {
+    "id": "Hmnp",
+    "name": "Nyiakeng Puachue Hmong",
+    "notes": null,
+    "langs": ["hmn"]
+  },
+  {
+    "id": "Hrkt",
+    "name": "Japanese syllabaries (alias for Hiragana + Katakana)",
+    "notes": null,
+    "langs": ["jpn", "ryu", "ain", "pau"]
+  },
+  {
+    "id": "Hung",
+    "name": "Old Hungarian (Hungarian Runic)",
+    "notes": null,
+    "langs": ["hun"]
+  },
+  {
+    "id": "Inds",
+    "name": "Indus (Harappan)",
+    "notes": "Not in Unicode, proposal is explored",
+    "langs": []
+  },
+  {
+    "id": "Ital",
+    "name": "Old Italic (Etruscan, Oscan, etc.)",
+    "notes": null,
+    "langs": ["ett", "osc", "xum", "spx"]
+  },
+  {
+    "id": "Jamo",
+    "name": "Jamo (alias for Jamo subset of Hangul)",
+    "notes": "Subset of Hang",
+    "langs": ["kor", "jje", "cia"]
+  },
+  {
+    "id": "Java",
+    "name": "Javanese",
+    "notes": null,
+    "langs": ["jav", "jvn", "jas", "osi", "tes", "kaw"]
+  },
+  {
+    "id": "Jpan",
+    "name": "Japanese (alias for Han + Hiragana + Katakana)",
+    "notes": "See Hani, Hira and Kana",
+    "langs": ["jpn", "ryu", "ain", "pau"]
+  },
+  {
+    "id": "Jurc",
+    "name": "Jurchen",
+    "notes": "Not in Unicode",
+    "langs": ["juc"]
+  },
+  {
+    "id": "Kali",
+    "name": "Kayah Li",
+    "notes": null,
+    "langs": ["eky", "kyu", "kvy", "kxf"]
+  },
+  {
+    "id": "Kana",
+    "name": "Katakana",
+    "notes": null,
+    "langs": ["jpn", "ryu", "ain", "pau"]
+  },
+  {
+    "id": "Kawi",
+    "name": "Kawi",
+    "notes": null,
+    "langs": ["ban", "kaw", "osn", "omy", "san"]
+  },
+  {
+    "id": "Khar",
+    "name": "Kharoshthi",
+    "notes": null,
+    "langs": ["pgd", "pli", "kho", "xtq", "san"]
+  },
+  {
+    "id": "Khmr",
+    "name": "Khmer",
+    "notes": null,
+    "langs": ["khm", "kxm", "san", "pli", "jra"]
+  },
+  {
+    "id": "Khoj",
+    "name": "Khojki",
+    "notes": null,
+    "langs": ["kfr", "snd"]
+  },
+  {
+    "id": "Kitl",
+    "name": "Khitan large script",
+    "notes": "Not in Unicode",
+    "langs": ["zkt"]
+  },
+  {
+    "id": "Kits",
+    "name": "Khitan small script",
+    "notes": null,
+    "langs": ["zkt"]
+  },
+  {
+    "id": "Knda",
+    "name": "Kannada",
+    "notes": null,
+    "langs": ["kan"]
+  },
+  {
+    "id": "Kore",
+    "name": "Korean (alias for Hangul + Han)",
+    "notes": "See Hani, Hang",
+    "langs": ["kor", "jje", "cia"]
+  },
+  {
+    "id": "Kpel",
+    "name": "Kpelle",
+    "notes": "Not in Unicode, proposal is explored",
+    "langs": ["kpe"]
+  },
+  {
+    "id": "Krai",
+    "name": "Kirai Rai",
+    "notes": "— Not in Unicode, approved for version 16.0",
+    "langs": []
+  },
+  {
+    "id": "Kthi",
+    "name": "Kaithi",
+    "notes": null,
+    "langs": ["awa", "bho", "hin", "urd", "mag", "sck", "sdr", "mai"]
+  },
+  {
+    "id": "Lana",
+    "name": "Tai Tham (Lanna)",
+    "notes": null,
+    "langs": ["nod", "khb", "kkh", "lao", "tts", "pli", "san"]
+  },
+  {
+    "id": "Laoo",
+    "name": "Lao",
+    "notes": null,
+    "langs": ["lao", "tts", "tha"]
+  },
+  {
+    "id": "Latf",
+    "name": "Latin (Fraktur variant)",
+    "notes": "Typographic variant of Latin (see Latn)",
+    "langs": ["deu", "ces"]
+  },
+  {
+    "id": "Latg",
+    "name": "Latin (Gaelic variant)",
+    "notes": "Typographic variant of Latin (see Latn)",
+    "langs": ["ghc"]
+  },
+  {
+    "id": "Latn",
+    "name": "Latin",
+    "notes": null
+  },
+  {
+    "id": "Leke",
+    "name": "Leke",
+    "notes": "Not in Unicode",
+    "langs": ["ksw"]
+  },
+  {
+    "id": "Lepc",
+    "name": "Lepcha (Róng)",
+    "notes": null,
+    "langs": ["lep"]
+  },
+  {
+    "id": "Limb",
+    "name": "Limbu",
+    "notes": null,
+    "langs": ["lif"]
+  },
+  {
+    "id": "Lina",
+    "name": "Linear A",
+    "notes": null,
+    "langs": ["omn", "lab"]
+  },
+  {
+    "id": "Linb",
+    "name": "Linear B",
+    "notes": null,
+    "langs": ["gmy"]
+  },
+  {
+    "id": "Lisu",
+    "name": "Lisu (Fraser)",
+    "notes": null,
+    "langs": ["lis"]
+  },
+  {
+    "id": "Loma",
+    "name": "Loma",
+    "notes": "Not in Unicode, proposal is explored",
+    "langs": []
+  },
+  {
+    "id": "Lyci",
+    "name": "Lycian",
+    "notes": null,
+    "langs": ["xlc"]
+  },
+  {
+    "id": "Lydi",
+    "name": "Lydian",
+    "notes": null,
+    "langs": ["xld"]
+  },
+  {
+    "id": "Mahj",
+    "name": "Mahajani",
+    "notes": null,
+    "langs": ["mwr"]
+  },
+  {
+    "id": "Maka",
+    "name": "Makasar",
+    "notes": null,
+    "langs": ["mak"]
+  },
+  {
+    "id": "Mand",
+    "name": "Mandaic, Mandaean",
+    "notes": null,
+    "langs": ["mid", "myz"]
+  },
+  {
+    "id": "Mani",
+    "name": "Manichaean",
+    "notes": null,
+    "langs": ["pal"]
+  },
+  {
+    "id": "Marc",
+    "name": "Marchen",
+    "notes": null,
+    "langs": ["xzh"]
+  },
+  {
+    "id": "Maya",
+    "name": "Mayan hieroglyphs",
+    "notes": "Not in Unicode",
+    "langs": ["yua", "emy"]
+  },
+  {
+    "id": "Medf",
+    "name": "Medefaidrin (Oberi Okaime, Oberi Ɔkaimɛ)",
+    "notes": null,
+    "langs": ["dmf"]
+  },
+  {
+    "id": "Mend",
+    "name": "Mende Kikakui",
+    "notes": null,
+    "langs": ["men"]
+  },
+  {
+    "id": "Merc",
+    "name": "Meroitic Cursive",
+    "notes": null,
+    "langs": ["xmr"]
+  },
+  {
+    "id": "Mero",
+    "name": "Meroitic Hieroglyphs",
+    "notes": null,
+    "langs": ["xmr"]
+  },
+  {
+    "id": "Mlym",
+    "name": "Malayalam",
+    "notes": null,
+    "langs": ["mal"]
+  },
+  {
+    "id": "Modi",
+    "name": "Modi, Moḍī",
+    "notes": null,
+    "langs": ["mar", "omr"]
+  },
+  {
+    "id": "Mong",
+    "name": "Mongolian",
+    "notes": null,
+    "langs": ["mon"]
+  },
+  {
+    "id": "Moon",
+    "name": "Moon (Moon code, Moon script, Moon type)",
+    "notes": "Not in Unicode, proposal is explored",
+    "langs": []
+  },
+  {
+    "id": "Mroo",
+    "name": "Mro, Mru",
+    "notes": null,
+    "langs": ["mro"]
+  },
+  {
+    "id": "Mtei",
+    "name": "Meitei Mayek (Meithei, Meetei)",
+    "notes": null,
+    "langs": ["mni", "omp"]
+  },
+  {
+    "id": "Mult",
+    "name": "Multani",
+    "notes": null,
+    "langs": ["skr"]
+  },
+  {
+    "id": "Mymr",
+    "name": "Myanmar (Burmese)",
+    "notes": null,
+    "langs": [
+      "mya",
+      "mnw",
+      "omx",
+      "shn",
+      "rki",
+      "rmz",
+      "kac",
+      "sgp",
+      "tcl",
+      "ksw"
+    ]
+  },
+  {
+    "id": "Nagm",
+    "name": "Nag Mundari",
+    "notes": null,
+    "langs": ["unr"]
+  },
+  {
+    "id": "Nand",
+    "name": "Nandinagari",
+    "notes": null,
+    "langs": ["san"]
+  },
+  {
+    "id": "Narb",
+    "name": "Old North Arabian (Ancient North Arabian)",
+    "notes": null,
+    "langs": []
+  },
+  {
+    "id": "Nbat",
+    "name": "Nabataean",
+    "notes": null,
+    "langs": []
+  },
+  {
+    "id": "Newa",
+    "name": "Newa, Newar, Newari, Nepāla lipi",
+    "notes": null,
+    "langs": ["new", "nwx", "phj"]
+  },
+  {
+    "id": "Nkdb",
+    "name": "Naxi Dongba (na²¹ɕi³³ to³³ba²¹, Nakhi Tomba)",
+    "notes": "Not in Unicode",
+    "langs": ["nxq", "nru"]
+  },
+  {
+    "id": "Nkgb",
+    "name": "Nakhi Geba (na²¹ɕi³³ gʌ²¹ba²¹, 'Na-'Khi ²Ggŏ-¹baw, Nakhi Geba)",
+    "notes": "Not in Unicode, proposal is explored",
+    "langs": ["nxq", "nru"]
+  },
+  {
+    "id": "Nkoo",
+    "name": "N'Ko",
+    "notes": null,
+    "langs": ["nqo", "mnk", "bam", "dyu"]
+  },
+  {
+    "id": "Nshu",
+    "name": "Nüshu",
+    "notes": null,
+    "langs": ["cmn"]
+  },
+  {
+    "id": "Ogam",
+    "name": "Ogham",
+    "notes": null,
+    "langs": ["pgl"]
+  },
+  {
+    "id": "Olck",
+    "name": "Ol Chiki (Ol Cemet, Ol, Santali)",
+    "notes": null,
+    "langs": ["sat", "mjx"]
+  },
+  {
+    "id": "Onao",
+    "name": "Ol Onal",
+    "notes": "— Not in Unicode, approved for version 16.0",
+    "langs": []
+  },
+  {
+    "id": "Orkh",
+    "name": "Old Turkic, Orkhon Runic",
+    "notes": null,
+    "langs": ["otk", "oui"]
+  },
+  {
+    "id": "Orya",
+    "name": "Oriya (Odia)",
+    "notes": null,
+    "langs": ["ori"]
+  },
+  {
+    "id": "Osge",
+    "name": "Osage",
+    "notes": null,
+    "langs": ["osa"]
+  },
+  {
+    "id": "Osma",
+    "name": "Osmanya",
+    "notes": null,
+    "langs": ["som"]
+  },
+  {
+    "id": "Ougr",
+    "name": "Old Uyghur",
+    "notes": null,
+    "langs": ["oui"]
+  },
+  {
+    "id": "Palm",
+    "name": "Palmyrene",
+    "notes": null,
+    "langs": []
+  },
+  {
+    "id": "Pauc",
+    "name": "Pau Cin Hau",
+    "notes": null,
+    "langs": []
+  },
+  {
+    "id": "Pcun",
+    "name": "Proto-Cuneiform",
+    "notes": "Not in Unicode",
+    "langs": []
+  },
+  {
+    "id": "Pelm",
+    "name": "Proto-Elamite",
+    "notes": "Not in Unicode",
+    "langs": []
+  },
+  {
+    "id": "Perm",
+    "name": "Old Permic",
+    "notes": null,
+    "langs": ["kpv"]
+  },
+  {
+    "id": "Phag",
+    "name": "Phags-pa",
+    "notes": null,
+    "langs": ["zho", "mon", "fas", "san", "xct", "oui"]
+  },
+  {
+    "id": "Phli",
+    "name": "Inscriptional Pahlavi",
+    "notes": null,
+    "langs": []
+  },
+  {
+    "id": "Phlp",
+    "name": "Psalter Pahlavi",
+    "notes": null,
+    "langs": ["pal", "xmn"]
+  },
+  {
+    "id": "Phlv",
+    "name": "Book Pahlavi",
+    "notes": "Not in Unicode",
+    "langs": []
+  },
+  {
+    "id": "Phnx",
+    "name": "Phoenician",
+    "notes": null,
+    "langs": ["phn", "xpu", "oar", "obm", "xdm", ""]
+  },
+  {
+    "id": "Piqd",
+    "name": "Klingon (KLI pIqaD)",
+    "notes": "Rejected for inclusion in Unicode",
+    "langs": ["tlh"]
+  },
+  {
+    "id": "Plrd",
+    "name": "Miao (Pollard)",
+    "notes": null,
+    "langs": ["hmd"]
+  },
+  {
+    "id": "Prti",
+    "name": "Inscriptional Parthian",
+    "notes": null,
+    "langs": ["xpr"]
+  },
+  {
+    "id": "Psin",
+    "name": "Proto-Sinaitic",
+    "notes": "Not in Unicode",
+    "langs": []
+  },
+  {
+    "id": "Qaaa-Qabx",
+    "name": "Reserved for private use (range)",
+    "notes": "Not in Unicode",
+    "langs": []
+  },
+  {
+    "id": "Ranj",
+    "name": "Ranjana",
+    "notes": "Not in Unicode",
+    "langs": ["new", "nwx", "phj", "san", "bod"]
+  },
+  {
+    "id": "Rjng",
+    "name": "Rejang (Redjang, Kaganga)",
+    "notes": null,
+    "langs": ["msa", "bke", "rej"]
+  },
+  {
+    "id": "Rohg",
+    "name": "Hanifi Rohingya",
+    "notes": null,
+    "langs": ["rhg"]
+  },
+  {
+    "id": "Roro",
+    "name": "Rongorongo",
+    "notes": "Not in Unicode, proposal is explored",
+    "langs": ["rap"]
+  },
+  {
+    "id": "Runr",
+    "name": "Runic",
+    "notes": null,
+    "langs": []
+  },
+  {
+    "id": "Samr",
+    "name": "Samaritan",
+    "notes": null,
+    "langs": ["sam"]
+  },
+  {
+    "id": "Sara",
+    "name": "Sarati",
+    "notes": "Not in Unicode",
+    "langs": ["qya"]
+  },
+  {
+    "id": "Sarb",
+    "name": "Old South Arabian",
+    "notes": null,
+    "langs": ["xsa", "xqt", "xhd", "inm", "xha"]
+  },
+  {
+    "id": "Saur",
+    "name": "Saurashtra",
+    "notes": null,
+    "langs": ["saz"]
+  },
+  {
+    "id": "Sgnw",
+    "name": "SignWriting",
+    "notes": null,
+    "langs": []
+  },
+  {
+    "id": "Shaw",
+    "name": "Shavian (Shaw)",
+    "notes": null,
+    "langs": ["eng"]
+  },
+  {
+    "id": "Shrd",
+    "name": "Sharada, Śāradā",
+    "notes": null,
+    "langs": ["san", "kas"]
+  },
+  {
+    "id": "Shui",
+    "name": "Shuishu",
+    "notes": "Not in Unicode",
+    "langs": ["swi"]
+  },
+  {
+    "id": "Sidd",
+    "name": "Siddham, Siddhaṃ, Siddhamātṛkā",
+    "notes": null,
+    "langs": ["san"]
+  },
+  {
+    "id": "Sidt",
+    "name": "Sidetic",
+    "notes": "— Not in Unicode, proposal is mature",
+    "langs": ["xsd"]
+  },
+  {
+    "id": "Sind",
+    "name": "Khudawadi, Sindhi",
+    "notes": null,
+    "langs": ["snd"]
+  },
+  {
+    "id": "Sinh",
+    "name": "Sinhala",
+    "notes": null,
+    "langs": ["sin"]
+  },
+  {
+    "id": "Sogd",
+    "name": "Sogdian",
+    "notes": null,
+    "langs": ["sog"]
+  },
+  {
+    "id": "Sogo",
+    "name": "Old Sogdian",
+    "notes": null,
+    "langs": ["sog"]
+  },
+  {
+    "id": "Sora",
+    "name": "Sora Sompeng",
+    "notes": null,
+    "langs": ["srb"]
+  },
+  {
+    "id": "Soyo",
+    "name": "Soyombo",
+    "notes": null,
+    "langs": ["mon", "bod", "san"]
+  },
+  {
+    "id": "Sund",
+    "name": "Sundanese",
+    "notes": null,
+    "langs": ["sun", "bac", "osn"]
+  },
+  {
+    "id": "Sunu",
+    "name": "Sunuwar",
+    "notes": "Not in Unicode",
+    "langs": ["suz"]
+  },
+  {
+    "id": "Sylo",
+    "name": "Syloti Nagri",
+    "notes": null,
+    "langs": ["ben", "syl"]
+  },
+  {
+    "id": "Syrc",
+    "name": "Syriac",
+    "notes": null,
+    "langs": ["syc", "arc", "amw", "syr", "tru", "ara", "mal", "sog"]
+  },
+  {
+    "id": "Syre",
+    "name": "Syriac (Estrangelo variant)",
+    "notes": "Typographic variant of Syriac (see Syrc)",
+    "langs": []
+  },
+  {
+    "id": "Syrj",
+    "name": "Syriac (Western variant)",
+    "notes": "Typographic variant of Syriac (see Syrc)",
+    "langs": []
+  },
+  {
+    "id": "Syrn",
+    "name": "Syriac (Eastern variant)",
+    "notes": "Typographic variant of Syriac (see Syrc)",
+    "langs": []
+  },
+  {
+    "id": "Tagb",
+    "name": "Tagbanwa",
+    "notes": null,
+    "langs": ["tbw", "plw", "plc", "plv", "bya"]
+  },
+  {
+    "id": "Takr",
+    "name": "Takri, Ṭākrī, Ṭāṅkrī",
+    "notes": null,
+    "langs": [
+      "doi",
+      "dgo",
+      "xnr",
+      "cdh",
+      "mjl",
+      "kfs",
+      "kfx",
+      "bht",
+      "cdj",
+      "gbk",
+      "bfz",
+      "pgg",
+      "bhd",
+      "san"
+    ]
+  },
+  {
+    "id": "Tale",
+    "name": "Tai Le",
+    "notes": null,
+    "langs": ["tdd", "pll", "pce", "rbb", "blr", "stu", "acn"]
+  },
+  {
+    "id": "Talu",
+    "name": "New Tai Lue",
+    "notes": null,
+    "langs": ["khb"]
+  },
+  {
+    "id": "Taml",
+    "name": "Tamil",
+    "notes": null,
+    "langs": ["tam", "oty", "kev", "bfq", "iru", "pcg", "saz"]
+  },
+  {
+    "id": "Tang",
+    "name": "Tangut",
+    "notes": null,
+    "langs": ["txg"]
+  },
+  {
+    "id": "Tavt",
+    "name": "Tai Viet",
+    "notes": null,
+    "langs": ["blt", "tyr", "twh", "soa", "tyt"]
+  },
+  {
+    "id": "Tayo",
+    "name": "Tai Yo",
+    "notes": "— Not in Unicode, proposal is mature",
+    "langs": ["tyj", "nyw"]
+  },
+  {
+    "id": "Telu",
+    "name": "Telugu",
+    "notes": null,
+    "langs": ["tel", "lmn", "gon", "kff", "kfc", "san", "saz"]
+  },
+  {
+    "id": "Teng",
+    "name": "Tengwar",
+    "notes": "Not in Unicode",
+    "langs": ["qya", "sjn", "eng"]
+  },
+  {
+    "id": "Tfng",
+    "name": "Tifinagh (Berber)",
+    "notes": null,
+    "langs": ["tmh"]
+  },
+  {
+    "id": "Tglg",
+    "name": "Tagalog (Baybayin, Alibata)",
+    "notes": null,
+    "langs": ["xsb", "ilo", "pam", "bik", "pag"]
+  },
+  {
+    "id": "Thaa",
+    "name": "Thaana",
+    "notes": null,
+    "langs": ["div"]
+  },
+  {
+    "id": "Thai",
+    "name": "Thai",
+    "notes": null,
+    "langs": ["tha", "sou", "nod", "tts", "mfa"]
+  },
+  {
+    "id": "Tibt",
+    "name": "Tibetan",
+    "notes": null,
+    "langs": [
+      "bod",
+      "dzo",
+      "lbj",
+      "zau",
+      "sip",
+      "bft",
+      "xsr",
+      "jul",
+      "scp",
+      "tsj",
+      "kkf",
+      "san"
+    ]
+  },
+  {
+    "id": "Tirh",
+    "name": "Tirhuta",
+    "notes": null,
+    "langs": ["mai", "san"]
+  },
+  {
+    "id": "Tnsa",
+    "name": "Tangsa",
+    "notes": null,
+    "langs": ["nst", "nqq", "nlq"]
+  },
+  {
+    "id": "Todr",
+    "name": "Todhri",
+    "notes": null,
+    "langs": ["sqi"]
+  },
+  {
+    "id": "Tols",
+    "name": "Tolong Siki",
+    "langs": ["kru"]
+  },
+  {
+    "id": "Toto",
+    "name": "Toto",
+    "notes": null,
+    "langs": ["txo"]
+  },
+  {
+    "id": "Tutg",
+    "name": "Tulu-Tigalari",
+    "notes": null,
+    "langs": ["tcy", "kan", "mal", "san"]
+  },
+  {
+    "id": "Ugar",
+    "name": "Ugaritic",
+    "notes": null,
+    "langs": ["uga", "xhu", "akk"]
+  },
+  {
+    "id": "Vaii",
+    "name": "Vai",
+    "notes": null,
+    "langs": ["vai"]
+  },
+  {
+    "id": "Visp",
+    "name": "Visible Speech",
+    "notes": "Not in Unicode",
+    "langs": []
+  },
+  {
+    "id": "Vith",
+    "name": "Vithkuqi",
+    "notes": null,
+    "langs": ["sqi"]
+  },
+  {
+    "id": "Wara",
+    "name": "Warang Citi (Varang Kshiti)",
+    "notes": null,
+    "langs": ["hoc"]
+  },
+  {
+    "id": "Wcho",
+    "name": "Wancho",
+    "notes": null,
+    "langs": ["nnp"]
+  },
+  {
+    "id": "Wole",
+    "name": "Woleai",
+    "notes": "Not in Unicode, proposal is explored",
+    "langs": ["woe"]
+  },
+  {
+    "id": "Xpeo",
+    "name": "Old Persian",
+    "notes": null,
+    "langs": ["peo"]
+  },
+  {
+    "id": "Xsux",
+    "name": "Cuneiform, Sumero-Akkadian",
+    "notes": null,
+    "langs": [
+      "sux",
+      "akk",
+      "xeb",
+      "elx",
+      "hit",
+      "oht",
+      "htx",
+      "nei",
+      "xhu",
+      "xlu",
+      "hlu",
+      "xur",
+      "plq",
+      "arc",
+      "syc",
+      "myz",
+      "xrm",
+      "bjf",
+      "bhn",
+      "hrt",
+      "aij",
+      "tmr",
+      "jpa",
+      "kqd",
+      "lhs",
+      "mid",
+      "oar",
+      "sam",
+      "syn",
+      "syr",
+      "huy",
+      "tru",
+      "trg",
+      "amw",
+      "peo"
+    ]
+  },
+  {
+    "id": "Yezi",
+    "name": "Yezidi",
+    "notes": null,
+    "langs": ["kmr"]
+  },
+  {
+    "id": "Yiii",
+    "name": "Yi",
+    "notes": null,
+    "langs": []
+  },
+  {
+    "id": "Zanb",
+    "name": "Zanabazar Square (Zanabazarin Dörböljin Useg, Xewtee Dörböljin Bicig, Horizontal Square Script)",
+    "notes": null,
+    "langs": ["mon", "bod", "san"]
+  },
+  {
+    "id": "Zinh",
+    "name": "Code for inherited script",
+    "notes": null,
+    "langs": []
+  },
+  {
+    "id": "Zmth",
+    "name": "Mathematical notation",
+    "notes": "Not a 'script' in Unicode",
+    "langs": []
+  },
+  {
+    "id": "Zsym",
+    "name": "Symbols",
+    "notes": "Not a 'script' in Unicode",
+    "langs": []
+  },
+  {
+    "id": "Zsye",
+    "name": "Symbols (emoji variant)",
+    "notes": "Not a 'script' in Unicode",
+    "langs": []
+  },
+  {
+    "id": "Zxxx",
+    "name": "Code for unwritten documents",
+    "notes": "Not a 'script' in Unicode",
+    "langs": []
+  },
+  {
+    "id": "Zyyy",
+    "name": "Code for undetermined script",
+    "notes": null,
+    "langs": []
+  },
+  {
+    "id": "Zzzz",
+    "name": "Code for uncoded script",
+    "notes": null,
+    "langs": []
+  }
+]
